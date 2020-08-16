@@ -11,3 +11,6 @@ For course 3, there's an example of the process of building a random forest mode
 For course 4, check another repository for details of Naive Bayes for text classification. Link: https://github.com/LidingLi/Numerical-Method/blob/master/Text-mining%20basics/Naive_bayes_spam_text.pdf
 Also, check descriptions of LDA model for topic modeling on wiki. https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 
+For course 5, check  another repository for details of PageRank. https://github.com/LidingLi/Numerical_Method/blob/master/programming%20assignments/mp3_Page_Rank.ipynb
+The damping factor version allows the algorithm either choose an edge or a node to follow. 
+check the wiki. https://en.wikipedia.org/wiki/PageRank
