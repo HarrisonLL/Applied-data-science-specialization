@@ -12,5 +12,5 @@ For course 4, check another repository for details of Naive Bayes for text class
 Also, check descriptions of LDA model for topic modeling on wiki. https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 
 For course 5, check  another repository for details of PageRank. https://github.com/LidingLi/Numerical_Method/blob/master/programming%20assignments/mp3_Page_Rank.ipynb
-The damping factor version allows the algorithm either choose an edge or a node to follow. 
+The damping factor version allows the algorithm to either choose an edge or a node to follow. 
 check the wiki. https://en.wikipedia.org/wiki/PageRank
