@@ -1,6 +1,6 @@
 # Applied-data-science-specialization
 
-Mooc Course Specialization. Begin from July 13th, 2020 to August 17th, 2020
+Mooc Course Specialization. Began from July 13th, 2020 to August 17th, 2020
 
 Useful links: 
 
