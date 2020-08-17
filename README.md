@@ -12,5 +12,4 @@ For course 4, check another repository for details of Naive Bayes for text class
 Also, check descriptions of LDA model for topic modeling on wiki. https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 
 For course 5, check  another repository for details of PageRank. https://github.com/LidingLi/Numerical_Method/blob/master/programming%20assignments/mp3_Page_Rank.ipynb
-The normalized PageRank introduces a dampling factor that allows the walker to either choose an edge or a node to follow. The algorithm is typically useful in large number of webpages.
-check the wiki. https://en.wikipedia.org/wiki/PageRank
+The normalized PageRank introduces a dampling factor that allows the walker to either choose an edge or a node to follow. The algorithm is typically useful in large number of webpages. https://github.com/LidingLi/Applied-data-science-specialization/blob/master/course5-applied-social-network-analysis/normalized_PageRank.py
