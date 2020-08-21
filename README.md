@@ -12,3 +12,4 @@ Useful links:
 
 - For course 5, check  another [repository](https://github.com/LidingLi/Numerical_Method/blob/master/programming%20assignments/mp3_Page_Rank.ipynb) for details of PageRank. 
 The [normalized PageRank](https://github.com/LidingLi/Applied-data-science-specialization/blob/master/course5-applied-social-network-analysis/normalized_PageRank.py) introduces a dampling factor that allows the walker to either choose an edge or a node to follow. The algorithm is typically useful in large number of webpages. 
+The [HITS(Hyperlink-Induced Topic Search) Algorithm](https://en.wikipedia.org/wiki/HITS_algorithm) introduces ideas of selecting good Hubs(links point from) and good Authority(linkes point to).
